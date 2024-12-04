@@ -1,0 +1,13 @@
+{
+    "Name": "nika chitidze",
+    "ID": "12345678998",
+    "Password": "123",
+    "Balance": 54,
+    "CustomerID": 1,
+    "Transactions": [
+        "50 GEL Was Deposited On Your Account | Date : 2024-12-04 15:35:59.017286",
+        "10 GEL Was Withdrawed From Your Account | Date : 2024-12-04 15:36:09.146182",
+        "15 GEL Was Deposited On Your Account | Date : 2024-12-04 15:36:16.284959",
+        "1 GEL Was Withdrawed From Your Account | Date : 2024-12-04 15:36:26.788825"
+    ]
+}
